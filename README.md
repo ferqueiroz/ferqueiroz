@@ -1,4 +1,4 @@
-<p align="center">-Started my studies at the beginning of 2024;<br>-1/4 software engineering in Unicesumar Maringá-PR;</p>
+<p align="center">-Started my studies at the beginning of 2024;<br>-2/4 software engineering in Unicesumar Maringá-PR;</p>
 
 ###
 
